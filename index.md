@@ -24,3 +24,10 @@ Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-reposi
 Hola a todos jeje
 ```
 Tercero añadimos bloques de codigo (Cambia segun el lenguaje)
+
+
+
+- [X] Lista 1
+- [ ] Lista 2
+- [X] Lista 3
+Cuarto añadimos listas 
